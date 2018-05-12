@@ -1,0 +1,26 @@
+_repo: Burritt-College-Centennial-CelebrationAugust-13-15-1948--Address-by-Charles-Lee-Lewis_45185
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45185-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lewis, Charles Lee
+    birthdate: 1886
+    gutenberg_agent_id: '43139'
+    url: http://www.gutenberg.org/2009/agents/43139
+description: ''
+gutenberg_issued: '2014-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LD'
+- !lcsh 'Burritt College -- History'
+title: "Burritt College Centennial Celebration, August 13-15, 1948\r\nAddress by Charles\
+  \ Lee Lewis"
+url: http://www.gutenberg.org/ebooks/45185
