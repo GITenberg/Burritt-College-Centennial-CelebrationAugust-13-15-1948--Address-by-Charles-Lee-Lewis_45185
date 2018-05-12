@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43139'
     url: http://www.gutenberg.org/2009/agents/43139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45185#Burritt-College-Centennial-CelebrationAugust-13-15-1948--Address-by-Charles-Lee-Lewis
 gutenberg_issued: '2014-03-21'
 gutenberg_type: Text
 identifiers:
